@@ -1,0 +1,63 @@
+money,brand,model,year,color,fuel_type,body_type,currency
+35500,Jeep,Compass,2022,Gris oscuro,Nafta,SUV,dolar
+19000,Citroën,C4 Cactus,2022,Gris oscuro,Nafta,SUV,dolar
+34500,Jeep,Compass,2022,Negro,Nafta,SUV,dolar
+25000,Kia,Sorento,2014,Negro,Diésel,SUV,dolar
+35500,BMW,220,2016,Blanco,Nafta,Coupé,dolar
+38500,Mercedes-Benz,Clase A,2017,Plateado,Nafta,Hatchback,dolar
+20500,Mercedes-Benz,Clase A,2013,Blanco,Nafta,Hatchback,dolar
+41900,BMW,Serie 1,2020,Negro,Nafta,Hatchback,dolar
+38500,Chevrolet,Trailblazer,2019,Gris,Diésel,SUV,dolar
+15000,Mini,Cooper,2013,Rojo,Nafta,Hatchback,dolar
+46900,Jeep,Grand Cherokee,2015,Blanco,Nafta,SUV,dolar
+43000,Toyota,Camry,2018,Gris,Nafta,Sedán,dolar
+17900,Peugeot,208,2018,Negro,Nafta,Sedán,dolar
+32000,Mercedes-Benz,Clase E,2014,Blanco,Nafta,Sedán,dolar
+185000,Mercedes-Benz,Clase E,2019,Gris,Nafta,Sedán,dolar
+58000,Toyota,SW4,2019,Blanco,Diésel,SUV,dolar
+78500,RAM,1500,2022,Gris,Nafta,Pick-Up,dolar
+42900,Hyundai,H1,2015,Gris,Diésel,Monovolumen,dolar
+16000,Volkswagen,Golf,2016,Plateado,Nafta,Hatchback,dolar
+115700,BMW,Serie M,2017,Gris,Nafta,Coupé,dolar
+52900,Toyota,Hilux,2022,Blanco,Diésel,Pick-Up,dolar
+17500,Mercedes-Benz,Clase A,2013,Negro,Nafta,Hatchback,dolar
+60000,Toyota,Hilux,2022,Negro,Diésel,Pick-Up,dolar
+95000,BMW,Serie 4,2022,Negro,Nafta,Coupé,dolar
+47700,Toyota,SW4,2020,Gris,Diésel,SUV,dolar
+64900,RAM,1500,2022,Rojo,Nafta,Pick-Up,dolar
+28500,Peugeot,308,2017,Azul,Nafta,Hatchback,dolar
+34990,Mercedes-Benz,Clase GLA,2015,Negro,Nafta,SUV,dolar
+35499,Toyota,Hilux,2020,Plateado,Diésel,Pick-Up,dolar
+8000,Volkswagen,Gol Trend,2013,Gris,Nafta,Hatchback,dolar
+43990,Mercedes-Benz,Clase GLA,2017,Gris,Nafta,SUV,dolar
+77500,RAM,1500,2022,Gris,Nafta,Pick-Up,dolar
+89990,BMW,Serie 2,2021,Celeste,Nafta,Coupé,dolar
+33999,Volkswagen,Golf,2016,Blanco,Nafta,Hatchback,dolar
+26990,Volkswagen,Polo,2021,Blanco,Nafta,Hatchback,dolar
+77500,RAM,1500,2022,Blanco,Nafta,Pick-Up,dolar
+36990,Toyota,Corolla,2022,Blanco,Híbrido/Nafta,Sedán,dolar
+26500,Fiat,500X,2019,Gris,Nafta,SUV,dolar
+13900,Kia,Soul,2016,Azul,Nafta,SUV,dolar
+65900,Ford,Ranger Raptor,2022,Blanco,Diésel,Pick-Up,dolar
+77490,RAM,1500,2022,Blanco,Nafta,Pick-Up,dolar
+16500,Ford,Focus III,2017,Gris,Nafta,Hatchback,dolar
+31000,Mercedes-Benz,Clase A,2017,Plateado,Nafta,Hatchback,dolar
+79000,BMW,Serie 2,2021,Azul,Nafta,Coupé,dolar
+46999,Mercedes-Benz,Clase A,2017,Blanco,Nafta,Hatchback,dolar
+128000,Ford,F-150,2020,Blanco,Diésel,Pick-Up,dolar
+90000,BMW,Serie 2,2021,Azul,Nafta,Coupé,dolar
+68000,Audi,S3,2018,Azul,Nafta,Hatchback,dolar
+30000,Honda,HR-V,2020,Blanco,Nafta,SUV,dolar
+15000,Volkswagen,Vento,2014,Gris,Nafta,Sedán,dolar
+34900,Honda,CR-V,2016,Negro,Nafta,SUV,dolar
+19500,Mini,Cooper Countryman,2014,Azul,Nafta,Hatchback,dolar
+41990,Toyota,SW4,2016,Blanco,Diésel,SUV,dolar
+23000,Volkswagen,Amarok,2016,Azul,Diésel,Pick-Up,dolar
+24500,Volkswagen,Nivus,2021,Gris,Nafta,SUV,dolar
+30990,Jeep,Compass,2017,Blanco,Nafta,SUV,dolar
+430000,Audi,R8 Coupé,2020,Azul,Nafta,Coupé,dolar
+39990,Toyota,Hilux,2022,Gris,Diésel,Pick-Up,dolar
+46990,Volkswagen,Golf,2018,Blanco,Nafta,Hatchback,dolar
+90000,Jeep,Grand Cherokee,2017,Gris,Nafta,SUV,dolar
+46000,Volkswagen,Amarok,2019,Gris,Diésel,Pick-Up,dolar
+44900,Volkswagen,Amarok,2019,Gris,Diésel,Pick-Up,dolar
